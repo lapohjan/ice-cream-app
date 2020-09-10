@@ -1,0 +1,23 @@
+html {
+    background: rgb(233, 232, 232);
+}
+
+h1 {
+    color: rgb(160, 4, 77);
+}
+
+main {
+    display: grid;
+    justify-items: center;
+}
+
+section div {
+    display: grid;
+    justify-items: center;
+}
+
+.error {
+    margin-top: 1em;
+    padding: 1em;
+    border: dashed red 1px;
+}

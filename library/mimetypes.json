@@ -1,0 +1,10 @@
+{
+    ".html":{"type":"text/html", "encoding":"utf8"},
+    ".js":{"type":"text/javascript", "encoding":"utf8"},
+    ".css":{"type": "text/css", "encoding":"utf8"},
+    ".json":{"type": "application/json", "encoding":"utf8"},
+    ".png":{"type": "image/png", "encoding":"binary"},
+    ".jpg":{"type": "image/jpg", "encoding":"binary"},
+    ".gif":{"type": "image/gif", "encoding":"binary"},
+    ".ico":{"type":"image/vdn.microsoft.icon", "encoding":"binary"}
+}
